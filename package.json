@@ -1,0 +1,19 @@
+{
+  "name": "tm-stripe",
+  "version": "1.0.0",
+  "description": "TraversyMedia - E-Book Sales using Stripe.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosepRA/tm-stripe.git"
+  },
+  "author": "Yosep Ryan Agusta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YosepRA/tm-stripe/issues"
+  },
+  "homepage": "https://github.com/YosepRA/tm-stripe#readme"
+}
